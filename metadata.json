@@ -1,0 +1,5 @@
+{
+  "name": "Cartoon Headshot Creator",
+  "description": "Upload a photo of yourself, add a text prompt, and use the Gemini API to generate a unique cartoon-style headshot. Perfect for profile pictures and avatars!",
+  "requestFramePermissions": []
+}
